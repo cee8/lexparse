@@ -33,6 +33,6 @@ After running the tests, you can find the test reports in the results directory
 
 ## Contributing
 
-Welcome contributions!
+Welcome to contributions!
 
 
